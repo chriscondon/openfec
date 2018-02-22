@@ -1,0 +1,41 @@
+{
+    "pagination": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 100,
+        "count": 5
+    },
+    "results": [
+        {
+            "size": 0,
+            "candidate_id": "S4PA00121",
+            "cycle": 2010,
+            "total": 5443858.8600000003
+        },
+        {
+            "size": 200,
+            "candidate_id": "S4PA00121",
+            "cycle": 2010,
+            "total": 967545.3199999999
+        },
+        {
+            "size": 500,
+            "candidate_id": "S4PA00121",
+            "cycle": 2010,
+            "total": 1453522.79
+        },
+        {
+            "size": 1000,
+            "candidate_id": "S4PA00121",
+            "cycle": 2010,
+            "total": 2704158.6499999999
+        },
+        {
+            "size": 2000,
+            "candidate_id": "S4PA00121",
+            "cycle": 2010,
+            "total": 4813938
+        }
+    ],
+    "api_version": "1.0"
+}

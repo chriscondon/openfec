@@ -1,0 +1,171 @@
+{
+    "pagination": {
+        "page": 1,
+        "count": 21337,
+        "pages": 1067,
+        "per_page": 20
+    },
+    "api_version": "1.0",
+    "results": [
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2028,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": "P60000338",
+            "cycle": 1976,
+            "office": "P",
+            "incumbent_name": "FORD, GERALD R.",
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 1972,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2040,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2060,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": "P60000247",
+            "cycle": 1980,
+            "office": "P",
+            "incumbent_name": "CARTER, JIMMY",
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2048,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2008,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2016,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2044,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2052,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2036,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": "P20000642",
+            "cycle": 1996,
+            "office": "P",
+            "incumbent_name": "CLINTON, WILLIAM JEFFERSON",
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2056,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": "P00000455",
+            "cycle": 1992,
+            "office": "P",
+            "incumbent_name": "BUSH, GEORGE",
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2024,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2020,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": null,
+            "cycle": 2032,
+            "office": "P",
+            "incumbent_name": null,
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": "P00003335",
+            "cycle": 2004,
+            "office": "P",
+            "incumbent_name": "BUSH, GEORGE W",
+            "district": "00"
+        },
+        {
+            "state": "US",
+            "incumbent_id": "P60000668",
+            "cycle": 1984,
+            "office": "P",
+            "incumbent_name": "REAGAN, RONALD",
+            "district": "00"
+        }
+    ]
+}

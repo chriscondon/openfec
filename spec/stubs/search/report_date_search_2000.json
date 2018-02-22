@@ -1,0 +1,10 @@
+{
+    "pagination": {
+        "per_page": 20,
+        "page": 1,
+        "count": 0,
+        "pages": 0
+    },
+    "api_version": "1.0",
+    "results": []
+}

@@ -1,0 +1,407 @@
+{
+    "api_version": "1.0",
+    "results": [
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 7201734.1799999997,
+            "total_receipts": 193657728.8000000119,
+            "won": false,
+            "candidate_id": "P00003335",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 186455991.5500000119,
+            "committee_ids": [
+                "C00341834",
+                "C00343509",
+                "C00343566",
+                "C00346932",
+                "C00350553",
+                "C00352682",
+                "C00352948",
+                "C00353250",
+                "C00354076",
+                "C00355032",
+                "C00355040",
+                "C00355305",
+                "C00356113",
+                "C00356360",
+                "C00357210",
+                "C00360156",
+                "C00360503"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "BUSH, GEORGE W"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 12772827,
+            "total_receipts": 133108037,
+            "won": false,
+            "candidate_id": "P80000912",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "DEMOCRATIC PARTY",
+            "total_disbursements": 120335203,
+            "committee_ids": [
+                "C00342204",
+                "C00342212",
+                "C00342287",
+                "C00349134",
+                "C00353995",
+                "C00359604",
+                "C00359885",
+                "C00360982",
+                "C00363259",
+                "C00363267",
+                "C00363630"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "GORE, AL"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 0,
+            "total_receipts": 86012139,
+            "won": false,
+            "candidate_id": "P60003852",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 86027058,
+            "committee_ids": [
+                "C00306472",
+                "C00343772"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "FORBES, STEVE"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 86262,
+            "total_receipts": 58636230,
+            "won": false,
+            "candidate_id": "P80002801",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 58549970,
+            "committee_ids": [
+                "C00342154",
+                "C00346148",
+                "C00351494",
+                "C00356782",
+                "C00356949",
+                "C00362913"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "MCCAIN, JOHN S"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 775203,
+            "total_receipts": 51156171,
+            "won": false,
+            "candidate_id": "P80000516",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "DEMOCRATIC PARTY",
+            "total_disbursements": 50421409,
+            "committee_ids": [
+                "C00341818",
+                "C00342816",
+                "C00354860"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "BRADLEY, BILL"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 487327.35,
+            "total_receipts": 29155871.4400000013,
+            "won": false,
+            "candidate_id": "P80000805",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REFORM PARTY",
+            "total_disbursements": 34788350.7800000012,
+            "committee_ids": [
+                "C00259606",
+                "C00259986",
+                "C00282715",
+                "C00301093",
+                "C00309112",
+                "C00314179",
+                "C00315291",
+                "C00315952",
+                "C00330506",
+                "C00343400",
+                "C00348193",
+                "C00361352",
+                "C00361857",
+                "C00363077"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "BUCHANAN, PATRICK J"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 515079,
+            "total_receipts": 15056809,
+            "won": false,
+            "candidate_id": "P60003076",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 14541515,
+            "committee_ids": [
+                "C00299313",
+                "C00303214",
+                "C00306837",
+                "C00307421",
+                "C00309427",
+                "C00342824",
+                "C00346163"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "KEYES, ALAN L"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 54232.91,
+            "total_receipts": 14101677.6600000001,
+            "won": false,
+            "candidate_id": "P00003491",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 13870884.3900000006,
+            "committee_ids": [
+                "C00342774"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "BAUER, GARY L"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 155798.6,
+            "total_receipts": 9902812.4399999995,
+            "won": false,
+            "candidate_id": "P20000527",
+            "incumbent_challenge_full": "Challenger",
+            "party_full": "UNKNOWN",
+            "total_disbursements": 9209068.7400000002,
+            "committee_ids": [
+                "C00314518",
+                "C00320325",
+                "C00324418",
+                "C00345413",
+                "C00354407",
+                "C00354845",
+                "C00355222",
+                "C00355891",
+                "C00356691",
+                "C00357673",
+                "C00358580",
+                "C00358754",
+                "C00359141",
+                "C00359216",
+                "C00359356",
+                "C00360594",
+                "C00360776",
+                "C00360834",
+                "C00361147",
+                "C00361311",
+                "C00361592",
+                "C00362541",
+                "C00362673",
+                "C00362798",
+                "C00362962",
+                "C00363085"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "NADER, RALPH"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 319584,
+            "total_receipts": 7888000,
+            "won": false,
+            "candidate_id": "P80002587",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 7568411,
+            "committee_ids": [
+                "C00342667",
+                "C00344481"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "QUAYLE, DAN"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 0,
+            "total_receipts": 5461958,
+            "won": false,
+            "candidate_id": "P00003319",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 5462020,
+            "committee_ids": [
+                "C00340851",
+                "C00341834",
+                "C00343889"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "DOLE, ELIZABETH"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 54499,
+            "total_receipts": 4898362,
+            "won": false,
+            "candidate_id": "P60000452",
+            "incumbent_challenge_full": "Challenger",
+            "party_full": "DEMOCRATIC PARTY",
+            "total_disbursements": 4887469,
+            "committee_ids": [
+                "C00031781",
+                "C00107391",
+                "C00171538",
+                "C00187435",
+                "C00188888",
+                "C00250191",
+                "C00283465",
+                "C00329706"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "LAROUCHE, LYNDON H JR"
+        },
+        {
+            "coverage_end_date": "1999-12-31T00:00:00",
+            "cash_on_hand_end_period": 0,
+            "total_receipts": 3582257,
+            "won": false,
+            "candidate_id": "P60003225",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 3623884,
+            "committee_ids": [
+                "C00300673",
+                "C00315424",
+                "C00342220"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "ALEXANDER, ANDREW LAMAR"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 581393,
+            "total_receipts": 3252784,
+            "won": false,
+            "candidate_id": "P60003670",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 2671388,
+            "committee_ids": [
+                "C00338301",
+                "C00346965",
+                "C00357335"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "KASICH, JOHN R"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 30225,
+            "total_receipts": 2647890,
+            "won": false,
+            "candidate_id": "P00003806",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 2622995,
+            "committee_ids": [
+                "C00346783"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "HATCH, ORRIN GRANT"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 676,
+            "total_receipts": 2295519,
+            "won": false,
+            "candidate_id": "P20001681",
+            "incumbent_challenge_full": "Challenger",
+            "party_full": "NATURAL LAW PARTY",
+            "total_disbursements": 2294839,
+            "committee_ids": [
+                "C00304956",
+                "C00345231",
+                "C00361790"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "HAGELIN, JOHN SAMUEL"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 308,
+            "total_receipts": 2177801,
+            "won": false,
+            "candidate_id": "P60003043",
+            "incumbent_challenge_full": "Challenger",
+            "party_full": "LIBERTARIAN PARTY",
+            "total_disbursements": 2203362,
+            "committee_ids": [
+                "C00357582",
+                "C00362871"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "BROWNE, HARRY"
+        },
+        {
+            "coverage_end_date": "2000-11-30T00:00:00",
+            "cash_on_hand_end_period": 0,
+            "total_receipts": 1670085,
+            "won": false,
+            "candidate_id": "P00003376",
+            "incumbent_challenge_full": "Open seat",
+            "party_full": "REPUBLICAN PARTY",
+            "total_disbursements": 1506115,
+            "committee_ids": [
+                "C00342139"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "SMITH, ROBERT C"
+        },
+        {
+            "coverage_end_date": "2000-12-31T00:00:00",
+            "cash_on_hand_end_period": 1926,
+            "total_receipts": 291919,
+            "won": false,
+            "candidate_id": "P20001434",
+            "incumbent_challenge_full": "Challenger",
+            "party_full": "OTHER",
+            "total_disbursements": 293818,
+            "committee_ids": [
+                "C00259390",
+                "C00349209"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "PHILLIPS, HOWARD"
+        },
+        {
+            "coverage_end_date": "1999-12-31T00:00:00",
+            "cash_on_hand_end_period": 39800,
+            "total_receipts": 115000,
+            "won": false,
+            "candidate_id": "P00004135",
+            "incumbent_challenge_full": "Challenger",
+            "party_full": "DEMOCRATIC PARTY",
+            "total_disbursements": 125200,
+            "committee_ids": [
+                "C00350058"
+            ],
+            "candidate_election_year": 2000,
+            "candidate_name": "HANKINS, GERALD LAMAR MR"
+        }
+    ],
+    "pagination": {
+        "count": 253,
+        "pages": 13,
+        "page": 1,
+        "per_page": 20
+    }
+}

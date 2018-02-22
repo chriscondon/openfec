@@ -1,0 +1,85 @@
+{
+    "api_version": "1.0",
+    "results": [
+        {
+            "id": "C00002931",
+            "name": "NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE CONTRIBUTIONS"
+        },
+        {
+            "id": "C00347864",
+            "name": "DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - CONTRIBUTIONS"
+        },
+        {
+            "id": "C00504530",
+            "name": "CONGRESSIONAL LEADERSHIP FUND"
+        },
+        {
+            "id": "C00108613",
+            "name": "INDIANA DEMOCRATIC CONGRESSIONAL VICTORY COMMITTEE"
+        },
+        {
+            "id": "C00119370",
+            "name": "NATIONAL CONSERVATIVE CLUB (FKA) NATIONAL CONGRESSIONAL CLUB"
+        },
+        {
+            "id": "C00330894",
+            "name": "RYAN FOR CONGRESS, INC."
+        },
+        {
+            "id": "C00410118",
+            "name": "BACHMANN FOR CONGRESS"
+        },
+        {
+            "id": "C00140715",
+            "name": "HOYER FOR CONGRESS"
+        },
+        {
+            "id": "C00003558",
+            "name": "NATIONAL COMMITTEE FOR AN EFFECTIVE CONGRESS"
+        },
+        {
+            "id": "C00355461",
+            "name": "CANTOR FOR CONGRESS"
+        },
+        {
+            "id": "C00630426",
+            "name": "JON OSSOFF FOR CONGRESS"
+        },
+        {
+            "id": "C00052076",
+            "name": "GEPHARDT IN CONGRESS COMMITTEE"
+        },
+        {
+            "id": "C00488742",
+            "name": "NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND"
+        },
+        {
+            "id": "C00420935",
+            "name": "KEVIN MCCARTHY FOR CONGRESS"
+        },
+        {
+            "id": "C00213512",
+            "name": "NANCY PELOSI FOR CONGRESS"
+        },
+        {
+            "id": "C00347492",
+            "name": "TIBERI FOR CONGRESS"
+        },
+        {
+            "id": "C00219881",
+            "name": "NITA LOWEY FOR CONGRESS"
+        },
+        {
+            "id": "C00226928",
+            "name": "PALLONE FOR CONGRESS"
+        },
+        {
+            "id": "C00303305",
+            "name": "PETE SESSIONS FOR CONGRESS"
+        },
+        {
+            "id": "C00195065",
+            "name": "THE CONGRESSMAN JOE BARTON COMMITTEE"
+        }
+    ]
+}

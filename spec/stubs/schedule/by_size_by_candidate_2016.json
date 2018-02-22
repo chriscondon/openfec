@@ -1,0 +1,41 @@
+{
+    "pagination": {
+        "page": 1,
+        "count": 5,
+        "pages": 1,
+        "per_page": 100
+    },
+    "api_version": "1.0",
+    "results": [
+        {
+            "size": 0,
+            "cycle": 2016,
+            "candidate_id": "S4PA00121",
+            "total": 5571080.5300000003
+        },
+        {
+            "size": 200,
+            "cycle": 2016,
+            "candidate_id": "S4PA00121",
+            "total": 932568.79
+        },
+        {
+            "size": 500,
+            "cycle": 2016,
+            "candidate_id": "S4PA00121",
+            "total": 1764977.3400000001
+        },
+        {
+            "size": 1000,
+            "cycle": 2016,
+            "candidate_id": "S4PA00121",
+            "total": 3471433.71
+        },
+        {
+            "size": 2000,
+            "cycle": 2016,
+            "candidate_id": "S4PA00121",
+            "total": 6290445.6799999997
+        }
+    ]
+}

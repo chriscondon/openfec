@@ -1,0 +1,105 @@
+{
+    "results": [
+        {
+            "name": "MCCAIN, JOHN S.",
+            "office_sought": "P",
+            "id": "P80002801"
+        },
+        {
+            "name": "KERRY, JOHN F",
+            "office_sought": "P",
+            "id": "P80000235"
+        },
+        {
+            "name": "EDWARDS, JOHN",
+            "office_sought": "P",
+            "id": "P40002347"
+        },
+        {
+            "name": "KERRY, JOHN F",
+            "office_sought": "S",
+            "id": "S4MA00069"
+        },
+        {
+            "name": "BOEHNER, JOHN A.",
+            "office_sought": "H",
+            "id": "H0OH08029"
+        },
+        {
+            "name": "MCCAIN, JOHN S",
+            "office_sought": "S",
+            "id": "S6AZ00019"
+        },
+        {
+            "name": "CORNYN, JOHN",
+            "office_sought": "S",
+            "id": "S2TX00106"
+        },
+        {
+            "name": "THUNE, JOHN",
+            "office_sought": "S",
+            "id": "S2SD00068"
+        },
+        {
+            "name": "JOHNSON, RONALD HAROLD",
+            "office_sought": "S",
+            "id": "S0WI00197"
+        },
+        {
+            "name": "ISAKSON, JOHN HARDY",
+            "office_sought": "S",
+            "id": "S6GA00119"
+        },
+        {
+            "name": "ROCKEFELLER, JOHN DAVISON IV",
+            "office_sought": "S",
+            "id": "S4WV00027"
+        },
+        {
+            "name": "MARKEY, EDWARD JOHN MR",
+            "office_sought": "S",
+            "id": "S4MA00028"
+        },
+        {
+            "name": "ANDERSON, JOHN B",
+            "office_sought": "P",
+            "id": "P00000786"
+        },
+        {
+            "name": "KASICH, JOHN R",
+            "office_sought": "P",
+            "id": "P60003670"
+        },
+        {
+            "name": "DINGELL, JOHN D. MR.",
+            "office_sought": "H",
+            "id": "H6MI16034"
+        },
+        {
+            "name": "MURTHA, JOHN P MR.",
+            "office_sought": "H",
+            "id": "H6PA12030"
+        },
+        {
+            "name": "SHIMKUS, JOHN M",
+            "office_sought": "H",
+            "id": "H2IL20042"
+        },
+        {
+            "name": "JOHNSON, TIM",
+            "office_sought": "S",
+            "id": "S6SD00051"
+        },
+        {
+            "name": "JOHNSON, NANCY L.",
+            "office_sought": "H",
+            "id": "H2CT06014"
+        },
+        {
+            "name": "WARNER, JOHN WILLIAM",
+            "office_sought": "S",
+            "id": "S8VA00107"
+        }
+    ],
+    "api_version": "1.0"
+}

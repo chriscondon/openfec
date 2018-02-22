@@ -1,0 +1,811 @@
+{
+    "pagination": {
+        "page": 1,
+        "count": 338,
+        "pages": 4,
+        "per_page": 100
+    },
+    "api_version": "1.0",
+    "results": [
+        {
+            "idx": 9692011,
+            "cycle": 2018,
+            "occupation": "ENDODONTIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 9692010,
+            "cycle": 2018,
+            "occupation": "OTHER HEALTH/DENTAL ORG STAFF",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 9692009,
+            "cycle": 2018,
+            "occupation": "PHYSICAL THERAPIST",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1000
+        },
+        {
+            "idx": 9692008,
+            "cycle": 2018,
+            "occupation": "GOVT. AFFAIRS DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9692007,
+            "cycle": 2018,
+            "occupation": "PEDIATRIC DENTIST",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1800
+        },
+        {
+            "idx": 9692006,
+            "cycle": 2018,
+            "occupation": "EXECUTIVE DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 19,
+            "total": 7250
+        },
+        {
+            "idx": 9692005,
+            "cycle": 2018,
+            "occupation": "DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 4,
+            "total": 1000
+        },
+        {
+            "idx": 9692004,
+            "cycle": 2018,
+            "occupation": "TEACHER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9692003,
+            "cycle": 2018,
+            "occupation": "PERIODONTIST",
+            "committee_id": "C00000729",
+            "count": 10,
+            "total": 3200
+        },
+        {
+            "idx": 9692002,
+            "cycle": 2018,
+            "occupation": "HOMEMAKER",
+            "committee_id": "C00000729",
+            "count": 8,
+            "total": 2850
+        },
+        {
+            "idx": 9692001,
+            "cycle": 2018,
+            "occupation": "GENERAL DENTIST",
+            "committee_id": "C00000729",
+            "count": 3,
+            "total": 2250
+        },
+        {
+            "idx": 9692000,
+            "cycle": 2018,
+            "occupation": "DENTIST",
+            "committee_id": "C00000729",
+            "count": 1070,
+            "total": 559439.91
+        },
+        {
+            "idx": 9691999,
+            "cycle": 2018,
+            "occupation": "OFFICER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691998,
+            "cycle": 2018,
+            "occupation": "PART TIME PRACTICE & SPEAKER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691997,
+            "cycle": 2018,
+            "occupation": "ARMED FORCES",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691996,
+            "cycle": 2018,
+            "occupation": "ARTIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691995,
+            "cycle": 2018,
+            "occupation": "PRES. OF ADA",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691994,
+            "cycle": 2018,
+            "occupation": "ASSOCIATE PROFESSOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691993,
+            "cycle": 2018,
+            "occupation": "ATTORNEY",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691992,
+            "cycle": 2018,
+            "occupation": "DENTIST/ DENTAL DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 500
+        },
+        {
+            "idx": 9691991,
+            "cycle": 2018,
+            "occupation": "HOSPITAL ADMINISTRATOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691990,
+            "cycle": 2018,
+            "occupation": "PARTTIME FACULTY/ PARTTIME PRACTICE",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691989,
+            "cycle": 2018,
+            "occupation": "OFFICE MANAGER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691988,
+            "cycle": 2018,
+            "occupation": "RETIRED AUDITOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691987,
+            "cycle": 2018,
+            "occupation": "PARISH NURSE",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691986,
+            "cycle": 2018,
+            "occupation": "DENTAL SCHOOL FACULTY",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1250
+        },
+        {
+            "idx": 9691985,
+            "cycle": 2018,
+            "occupation": "BARNES DENTAL ASSOCIATES",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 2700
+        },
+        {
+            "idx": 9691984,
+            "cycle": 2018,
+            "occupation": "FEDERAL WORKER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691983,
+            "cycle": 2018,
+            "occupation": "ENTREPRENEUR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691982,
+            "cycle": 2018,
+            "occupation": "DIRECTOR, CAPIR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 9691981,
+            "cycle": 2018,
+            "occupation": "BUSINESS ASSISTANT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691980,
+            "cycle": 2018,
+            "occupation": "PAC DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 3,
+            "total": 1166.68
+        },
+        {
+            "idx": 9691979,
+            "cycle": 2018,
+            "occupation": null,
+            "committee_id": "C00000729",
+            "count": 6,
+            "total": 290.94
+        },
+        {
+            "idx": 9691978,
+            "cycle": 2018,
+            "occupation": "DENTIST/ PROFESSOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691977,
+            "cycle": 2018,
+            "occupation": "GRADUATE STUDENT/RESIDENT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 9691976,
+            "cycle": 2018,
+            "occupation": "GOVERNMENT SERVICES DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691975,
+            "cycle": 2018,
+            "occupation": "MANAGER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 9691974,
+            "cycle": 2018,
+            "occupation": "VICE PRESIDENT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 9691973,
+            "cycle": 2018,
+            "occupation": "AUDIOLOGIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 9691972,
+            "cycle": 2018,
+            "occupation": "FULL TIME PRACTICE (>30 HRS/WEEK)",
+            "committee_id": "C00000729",
+            "count": 9,
+            "total": 4375
+        },
+        {
+            "idx": 2011,
+            "cycle": 2016,
+            "occupation": "BHARAT C. JOSHI",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 2010,
+            "cycle": 2016,
+            "occupation": "STATE OR LOCAL GOVERNMENT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 2009,
+            "cycle": 2016,
+            "occupation": "PROSTHODONTIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 2008,
+            "cycle": 2016,
+            "occupation": "DENTIST ANESTEHSIOLOGIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 2007,
+            "cycle": 2016,
+            "occupation": "DENCOM COMMANDER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 2006,
+            "cycle": 2016,
+            "occupation": "TEACHER",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1000
+        },
+        {
+            "idx": 2005,
+            "cycle": 2016,
+            "occupation": "STAFF",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 750
+        },
+        {
+            "idx": 2004,
+            "cycle": 2016,
+            "occupation": "PARISH NURSE",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 750
+        },
+        {
+            "idx": 2003,
+            "cycle": 2016,
+            "occupation": "ADMINISTRATOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 2002,
+            "cycle": 2016,
+            "occupation": "ENDODONTIST",
+            "committee_id": "C00000729",
+            "count": 6,
+            "total": 1850
+        },
+        {
+            "idx": 2001,
+            "cycle": 2016,
+            "occupation": "OMS",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 500
+        },
+        {
+            "idx": 2000,
+            "cycle": 2016,
+            "occupation": "NURSE",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 750
+        },
+        {
+            "idx": 1999,
+            "cycle": 2016,
+            "occupation": "DENTIST",
+            "committee_id": "C00000729",
+            "count": 2237,
+            "total": 1080566.3100000001
+        },
+        {
+            "idx": 1998,
+            "cycle": 2016,
+            "occupation": "PART TIME PRACTICE & SPEAKER",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 500
+        },
+        {
+            "idx": 1997,
+            "cycle": 2016,
+            "occupation": "OTHER HEALTH/DENTAL ORG STAFF",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 1996,
+            "cycle": 2016,
+            "occupation": "PRACTICE ADMINISTRATOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 1995,
+            "cycle": 2016,
+            "occupation": "RETIRED",
+            "committee_id": "C00000729",
+            "count": 4,
+            "total": 1500
+        },
+        {
+            "idx": 1994,
+            "cycle": 2016,
+            "occupation": "PERIODONTIST",
+            "committee_id": "C00000729",
+            "count": 10,
+            "total": 2775
+        },
+        {
+            "idx": 1993,
+            "cycle": 2016,
+            "occupation": "DENTAL ASSISTANT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1992,
+            "cycle": 2016,
+            "occupation": "VOLUNTEER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1991,
+            "cycle": 2016,
+            "occupation": "GOVT. AFFAIRS DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 500
+        },
+        {
+            "idx": 1990,
+            "cycle": 2016,
+            "occupation": "FEDERAL WORKER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1989,
+            "cycle": 2016,
+            "occupation": "FLORIDA DENTAL ASSOC.",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 1988,
+            "cycle": 2016,
+            "occupation": "PAC DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 83.34
+        },
+        {
+            "idx": 1987,
+            "cycle": 2016,
+            "occupation": "ARMED FORCES",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 1986,
+            "cycle": 2016,
+            "occupation": "DOCTOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 1985,
+            "cycle": 2016,
+            "occupation": "RETIRED AUDITOR",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1000
+        },
+        {
+            "idx": 1984,
+            "cycle": 2016,
+            "occupation": "DENTIST/CONSULTANT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 100
+        },
+        {
+            "idx": 1983,
+            "cycle": 2016,
+            "occupation": "BUSINESS ASSISTANT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1982,
+            "cycle": 2016,
+            "occupation": "STAFF MEMBER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 1981,
+            "cycle": 2016,
+            "occupation": "RETIRED DDS",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 25
+        },
+        {
+            "idx": 1980,
+            "cycle": 2016,
+            "occupation": "ATTORNEY",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1000
+        },
+        {
+            "idx": 1979,
+            "cycle": 2016,
+            "occupation": null,
+            "committee_id": "C00000729",
+            "count": 26,
+            "total": 3892.96
+        },
+        {
+            "idx": 1978,
+            "cycle": 2016,
+            "occupation": "DENTIST/ PROFESSOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1977,
+            "cycle": 2016,
+            "occupation": "PHARMACIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1976,
+            "cycle": 2016,
+            "occupation": "SUMMIT DENTAL",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1975,
+            "cycle": 2016,
+            "occupation": "DENTIST ORAL SURGEON",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1500
+        },
+        {
+            "idx": 1974,
+            "cycle": 2016,
+            "occupation": "EXECUTIVE DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 35,
+            "total": 12500
+        },
+        {
+            "idx": 1973,
+            "cycle": 2016,
+            "occupation": "DEPUTY EXEC DIR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 100
+        },
+        {
+            "idx": 1972,
+            "cycle": 2016,
+            "occupation": "OFFICE MANAGER",
+            "committee_id": "C00000729",
+            "count": 12,
+            "total": 5100
+        },
+        {
+            "idx": 1971,
+            "cycle": 2016,
+            "occupation": "VICE PRESIDENT",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 1000
+        },
+        {
+            "idx": 1970,
+            "cycle": 2016,
+            "occupation": "DENTISTRY",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 1969,
+            "cycle": 2016,
+            "occupation": "HOSPITAL ADMINISTRATOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1968,
+            "cycle": 2016,
+            "occupation": "GENERAL DENTIST",
+            "committee_id": "C00000729",
+            "count": 12,
+            "total": 3400
+        },
+        {
+            "idx": 1967,
+            "cycle": 2016,
+            "occupation": "PRES. OF ADA",
+            "committee_id": "C00000729",
+            "count": 8,
+            "total": 1333.28
+        },
+        {
+            "idx": 1966,
+            "cycle": 2016,
+            "occupation": "DIRECTOR, CAPIR",
+            "committee_id": "C00000729",
+            "count": 4,
+            "total": 2375
+        },
+        {
+            "idx": 1965,
+            "cycle": 2016,
+            "occupation": "BUSINESS MANAGER",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1964,
+            "cycle": 2016,
+            "occupation": "PEDIATRIC DENTIST",
+            "committee_id": "C00000729",
+            "count": 11,
+            "total": 2000
+        },
+        {
+            "idx": 1963,
+            "cycle": 2016,
+            "occupation": "ORAL SURGEON",
+            "committee_id": "C00000729",
+            "count": 3,
+            "total": 1200
+        },
+        {
+            "idx": 1962,
+            "cycle": 2016,
+            "occupation": "RETIRED, DENTIST",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 200
+        },
+        {
+            "idx": 1961,
+            "cycle": 2016,
+            "occupation": "PHYSICAL THERAPIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1960,
+            "cycle": 2016,
+            "occupation": "ORTHODONTIST",
+            "committee_id": "C00000729",
+            "count": 6,
+            "total": 750
+        },
+        {
+            "idx": 1959,
+            "cycle": 2016,
+            "occupation": "DENTAL SCHOOL FACULTY",
+            "committee_id": "C00000729",
+            "count": 3,
+            "total": 1625
+        },
+        {
+            "idx": 1958,
+            "cycle": 2016,
+            "occupation": "FULL TIME PRACTICE (>30 HRS/WEEK)",
+            "committee_id": "C00000729",
+            "count": 8,
+            "total": 3500
+        },
+        {
+            "idx": 1957,
+            "cycle": 2016,
+            "occupation": "HOMEMAKER",
+            "committee_id": "C00000729",
+            "count": 18,
+            "total": 8250
+        },
+        {
+            "idx": 1956,
+            "cycle": 2016,
+            "occupation": "ORAL & MAXILLOFACIAL SURGEON",
+            "committee_id": "C00000729",
+            "count": 2,
+            "total": 1100
+        },
+        {
+            "idx": 1955,
+            "cycle": 2016,
+            "occupation": "DIRECTOR, STATE GOVERNMENT AFFAIRS",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 1954,
+            "cycle": 2016,
+            "occupation": "ARTIST",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 500
+        },
+        {
+            "idx": 1953,
+            "cycle": 2014,
+            "occupation": "DIRECTOR, STATE GOVERNMENT AFFAIRS",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 250
+        },
+        {
+            "idx": 1952,
+            "cycle": 2014,
+            "occupation": "CLINICAL DIRECTOR",
+            "committee_id": "C00000729",
+            "count": 1,
+            "total": 260
+        }
+    ]
+}
