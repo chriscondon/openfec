@@ -26,7 +26,7 @@ module OpenFec
     end
   end
 
-  RSpec.describe Schedule do
+  RSpec.describe Search do
     describe '#Search' do
       context 'Basic setup' do
         before do
@@ -40,31 +40,31 @@ module OpenFec
         it "allows search by candidate name" do
           search_query = 'John'
           response = OpenFec::Search.candidates(search_query)
-          expect(response).to be_kind_of(OpenFec::Response)
+          expect(response).to be_kind_of(OpenFec::SearchResponse)
         end
 
         it "allows search by committee" do
           search_query = 'Congress'
           response = OpenFec::Search.committees(search_query)
-          expect(response).to be_kind_of(OpenFec::Response)
+          expect(response).to be_kind_of(OpenFec::SearchResponse)
         end
 
         it "allows filings search by report year" do
           search_query = { 'report_year' => '2000' }
           response = OpenFec::Search.filings(search_query)
-          expect(response).to be_kind_of(OpenFec::Response)
+          expect(response).to be_kind_of(OpenFec::SearchResponse)
         end
 
         it "allows reporting dates search by report year" do
           search_query = { 'report_year' => '2000' }
           response = OpenFec::Search.reporting_dates(search_query)
-          expect(response).to be_kind_of(OpenFec::Response)
+          expect(response).to be_kind_of(OpenFec::SearchResponse)
         end
 
         it "allows elections search by office" do
           search_query = { 'office' => 'senate' }
           response = OpenFec::Search.elections(search_query)
-          expect(response).to be_kind_of(OpenFec::Response)
+          expect(response).to be_kind_of(OpenFec::SearchResponse)
         end
       end
     end

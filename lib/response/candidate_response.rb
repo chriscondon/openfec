@@ -1,5 +1,5 @@
 module OpenFec
-  class Candidate_Response < Response
+  class CandidateResponse < OpenFecResponse
 		attr_reader :request, :headers, :api_version, :pagination, :results
 
   	def initialize(response)

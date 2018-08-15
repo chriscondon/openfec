@@ -77,7 +77,7 @@ module OpenFec
 	    end
 
 	    def self.get_candidate_response(response)
-	    	return Candidate_Response.new(response)
+	    	return CandidateResponse.new(response)
 	    end
 
 	end #class Candidate

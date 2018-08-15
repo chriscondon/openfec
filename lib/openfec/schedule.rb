@@ -107,9 +107,8 @@ module OpenFec
 	    end
 
 	    def self.get_schedule_response(response)
-	    	return Schedule_Response.new(response)
+	    	return ScheduleResponse.new(response)
 	    end
 
   end #class
 end #module
-

@@ -1,5 +1,5 @@
 module OpenFec
-  class Committee_Response < Response
+  class CommitteeResponse < OpenFecResponse
 		attr_reader :request, :headers, :api_version, :pagination, :results
 
   	def initialize(response)

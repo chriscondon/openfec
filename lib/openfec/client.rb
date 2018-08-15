@@ -32,7 +32,7 @@ module OpenFec
     end
 
     def self.make_request(response)
-      return Response.new(response)
+      return OpenFecResponse.new(response)
     end
 
     def default_query
@@ -122,17 +122,17 @@ module OpenFec
      @@valid_request_params = {
 
 
-      'sched_a_req_params' => [ "max_image_number", "min_amount", "image_number", "max_date", "min_image_number", 
-                                "max_amount", "min_date", "contributor_name", "is_individual", "contributor_type", 
-                                "contributor_city", "committee_id", "last_contributor_aggregate_ytd", "contributor_id", 
-                                "last_contribution_receipt_date", "contributor_occupation", "contributor_state", 
-                                "contributor_employer", "last_contribution_receipt_amount", "last_index", "per_page", 
+      'sched_a_req_params' => [ "max_image_number", "min_amount", "image_number", "max_date", "min_image_number",
+                                "max_amount", "min_date", "contributor_name", "is_individual", "contributor_type",
+                                "contributor_city", "committee_id", "last_contributor_aggregate_ytd", "contributor_id",
+                                "last_contribution_receipt_date", "contributor_occupation", "contributor_state",
+                                "contributor_employer", "last_contribution_receipt_amount", "last_index", "per_page",
                                 "sort", "sort_hide_null", "sort_nulls_large", "candidate_id", "cycle" ],
-                             
-      'sched_b_req_params' => [ "max_image_number", "min_amount", "image_number", "max_date", "min_image_number", 
+
+      'sched_b_req_params' => [ "max_image_number", "min_amount", "image_number", "max_date", "min_image_number",
                                 "max_amount", "min_date", "last_disbursement_amount", "last_disbursement_date",
-                                "recipient_committee_id", "recipient_name", "recipient_state", "committee_id", 
-                                "disbursement_description", "recipient_city", "last_index", "per_page", "sort", 
+                                "recipient_committee_id", "recipient_name", "recipient_state", "committee_id",
+                                "disbursement_description", "recipient_city", "last_index", "per_page", "sort",
                                 "sort_hide_null", "sort_nulls_large", "candidate_id", "cycle" ],
 
       'sched_e_req_params' => [ "max_image_number", "min_amount", "image_number", "max_date", "min_image_number",

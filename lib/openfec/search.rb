@@ -1,8 +1,5 @@
 module OpenFec
 	class Search < Client
-
-
-
 		def self.candidates(name)
 			raise "Missing search parameter for candidates search" unless is_valid(name)
 			options = { 'q' => name.to_s }
@@ -31,18 +28,18 @@ module OpenFec
 		end
 
 
-    #********
+    #########
 		protected
 
     def self.search_request(search_endpoint, param_type, options = {})
     	query = {'api_key' => @@api_key }
     	query = merge_options(query, options, param_type)
-    	return make_request( self.get(@@search_endpoints[search_endpoint], query: query) )
+    	return SearchResponse.new( self.get(@@search_endpoints[search_endpoint], query: query) )
     end
 
     def self.get_search_response(response)
-    	return Search_Response.new(response)
+    	return SearchResponse.new(response)
     end
 
-	end #class Search
-end #module OpenFec
+	end
+end

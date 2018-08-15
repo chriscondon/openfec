@@ -1,5 +1,5 @@
 module OpenFec
-  class Schedule_Response < Response
+  class ScheduleResponse < OpenFecResponse
 		attr_reader :pagination, :results
 
   	def initialize(response)

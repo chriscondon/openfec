@@ -60,7 +60,6 @@ module OpenFec
         it "filters candidates by state" do
           options = {:state => "VA"}
           response = OpenFec::Candidate.all_where(options)
-          #puts response.code.to_s
           expect(response.results.map{|c| c["state"]}.uniq).to eql(["VA"])
         end
 

@@ -1,5 +1,5 @@
 module OpenFec
-  class Search_Response < Response
+  class SearchResponse < OpenFecResponse
 		attr_reader :pagination, :results
 
   	def initialize(response)

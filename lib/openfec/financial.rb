@@ -63,7 +63,7 @@ module OpenFec
     end
 
     def self.get_financial_response(response)
-      return Financial_Response.new(response)
+      return FinancialResponse.new(response)
     end
 	end #class Financial
 end #module OpenFec

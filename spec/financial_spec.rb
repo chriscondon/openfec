@@ -40,26 +40,26 @@ module OpenFec
           committee_id = 'C00563023'
           response = OpenFec::Financial.committee_reports(committee_id)
           puts response.results
-          expect(response).to be_kind_of(OpenFec::Financial_Response)
+          expect(response).to be_kind_of(OpenFec::FinancialResponse)
         end
 
         it "returns committee totals financial data by committee id" do
           committee_id = 'C00563023'
           response = OpenFec::Financial.committee_totals(committee_id)
           puts response.results
-          expect(response).to be_kind_of(OpenFec::Financial_Response)
+          expect(response).to be_kind_of(OpenFec::FinancialResponse)
         end
 
         it "returns committee reports by committee type" do
           committee_type = 'presidential'
           response = OpenFec::Financial.reports_by_committee_type(committee_type)
-          expect(response).to be_kind_of(OpenFec::Financial_Response)
+          expect(response).to be_kind_of(OpenFec::FinancialResponse)
         end
 
         it "allows search by office and cycle" do
           search_query = { 'office' => 'president', 'cycle' => '2000'}
           response = OpenFec::Financial.elections(search_query)
-          expect(response).to be_kind_of(OpenFec::Financial_Response)
+          expect(response).to be_kind_of(OpenFec::FinancialResponse)
         end
       end
     end

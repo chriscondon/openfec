@@ -1,4 +1,4 @@
-# ruby-openfec
+# openfec
 
 
 A ruby wrapper for Open Federal Elections Commission API.
@@ -20,7 +20,7 @@ Response format: .json
 
 ## Installation
 
-Add `gem 'ruby-openfec'` to your application's *Gemfile* and run `bundle install`, or install manually with `gem install ruby-openfec`.
+Add `gem 'openfec'` to your application's *Gemfile* and run `bundle install`, or install manually with `gem install openfec`.
 
 ## Configuration
 
@@ -64,13 +64,13 @@ comm_hist = OpenFec::Committee.history(options)
 
 ### Local Installation
 
-Check out the repo with `git clone http://github.com/chriscondon/ruby-openfec`, then `cd ruby-openfec`.
+Check out the repo with `git clone http://github.com/chriscondon/openfec`, then `cd ruby-openfec`.
 
 After checking out the repo, run `bin/setup` to install dependencies.
 
 ### Testing
 
-Run `bundle exec rspec spec/` to run the tests.
+Navigate to the root directory and run `rspec` to run the tests.
 
 
 ### Classes / Methods

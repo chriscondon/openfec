@@ -68,7 +68,7 @@ module OpenFec
 	    end
 
 	    def self.get_committee_response(response)
-	    	return Committee_Response.new(response)
+	    	return CommitteeResponse.new(response)
 	    end
 
 	end #class Committee

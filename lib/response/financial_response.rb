@@ -1,5 +1,5 @@
 module OpenFec
-  class Financial_Response < Response
+  class FinancialResponse < OpenFecResponse
 		attr_reader :pagination, :results
 
   	def initialize(response)

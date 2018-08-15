@@ -45,7 +45,7 @@ module OpenFec
 
         it "returns schedule A data in json format" do
           response = OpenFec::Schedule.a_all
-          expect(response).to be_kind_of(OpenFec::Schedule_Response)
+          expect(response).to be_kind_of(OpenFec::ScheduleResponse)
         end
 
         # it "returns all schedule A data by contributor" do
@@ -94,14 +94,14 @@ module OpenFec
         it "returns a Committee's schedule A data by occupation" do
           options = { 'committee_id' => 'C00000729'}
           response = OpenFec::Schedule.a_by_occupation(options)
-          expect(response).to be_kind_of(OpenFec::Schedule_Response)
+          expect(response).to be_kind_of(OpenFec::ScheduleResponse)
         end
 
 
         it "returns all schedule A data by size and candidate" do
           options = {'candidate_id' => 'S4PA00121' , 'cycle' => 2010 }
           response = OpenFec::Schedule.a_by_size_and_candidate(options)
-          expect(response).to be_kind_of(OpenFec::Schedule_Response)
+          expect(response).to be_kind_of(OpenFec::ScheduleResponse)
         end
 
   #       it "returns a Committee's schedule A data by size" do

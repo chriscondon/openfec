@@ -18,7 +18,7 @@ module OpenFec
     end
   end
 
-  RSpec.describe Response do
+  RSpec.describe OpenFecResponse do
     describe '#Client' do
       context 'With valid API key' do
         before do

@@ -43,7 +43,7 @@ module OpenFec
 
         it "returns valid json responses" do
           response = OpenFec::Committee.all
-          expect(response).to be_kind_of(OpenFec::Response)
+          expect(response).to be_kind_of(OpenFec::CommitteeResponse)
         end
 
 

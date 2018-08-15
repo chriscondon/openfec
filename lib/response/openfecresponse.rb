@@ -1,5 +1,5 @@
 module OpenFec
-  class Response
+  class OpenFecResponse
     attr_reader :pagination, :results
      def initialize(response)
        if valid?(response)
